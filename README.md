@@ -5,7 +5,7 @@
     <b>
       システムアナリスト
       <br>
-      Olá, meu nome é Rafaela !
+      Halo, Nama Saya Adzril !
       <br>
 </div>
 <div align="center">
